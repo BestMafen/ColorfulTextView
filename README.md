@@ -1,5 +1,6 @@
 ## ColorfulTextView 一个支持不同字体大小，不同字体颜色，不同点击事件的TextView
 ![效果](https://github.com/BestMafen/ColorfulTextView/blob/master/p.png?raw=true)
+![效果](https://github.com/BestMafen/ColorfulTextView/blob/master/v.mp4?raw=true)
 
 - xml布局：
 
